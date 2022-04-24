@@ -18,6 +18,10 @@ Written entirely in vanilla JavaScript, but setup for the module system in node.
 * Calculate the nth value of the factorials, by looping and, also, using recursion.
 * Find the longest word in a sentence.
 * Reverse a String.
+* Titlecase a String.
+* Spinalcase a String.
+* Find the list of primes below some number, n. (using the sieve of Eratosthenes).
+* Sum the first n primes.
 ## Setup
 Just download the code file, and require the necessary code into your project. Or rewrite to use as an import, for example, for React.
 ## Usage
